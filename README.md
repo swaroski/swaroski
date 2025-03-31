@@ -14,7 +14,7 @@
 -->
 
 # 💫 About Me:
- 🔭 I’m currently working on Langchain, LLMs and similar Machine learning projects<br>- 🌱 I’m currently learning VectorDB<br>- 👯 I’m looking to collaborate on Langchain Projects<br>- 🤔 I’m looking for help with any project with LLMs<br>- 💬 Ask me about LLM integrations and deployment<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I wake up before 4:30am everyday, take cold showers and can carry a T-shirt in the Canadian winters
+ 🔭 I’m currently working on Langchain, LLMs and similar Machine learning projects<br>- 🌱 I’m currently learning AI Agent Architecture with MCP<br>- 👯 I’m looking to collaborate on Open Source Projects<br>- 🤔 I’m looking for help with any project with LLMs<br>- 💬 Ask me about LLM integrations and deployment<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I wake up before 4:30am everyday, take cold showers and can carry a T-shirt in the Canadian winters
 
 
 ## 🌐 Socials:
