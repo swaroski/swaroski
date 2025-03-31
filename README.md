@@ -16,6 +16,67 @@
 # 💫 About Me:
  🔭 I’m currently working on Langchain, LLMs and similar Machine learning projects<br>- 🌱 I’m currently learning AI Agent Architecture with MCP<br>- 👯 I’m looking to collaborate on Open Source Projects<br>- 🤔 I’m looking for help with any project with LLMs<br>- 💬 Ask me about LLM integrations and deployment<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: I wake up before 4:30am everyday, take cold showers and can carry a T-shirt in the Canadian winters
 
+ ## 🚀 Projects
+
+### 🎨 [Logo Generator](https://www.semplr.com)  
+AI-powered logo generation with prompt-based customization and Vercel deploy.  
+[Repo](https://github.com/swaroski/logo-generator)
+
+### 🔍 [DeepSearch](https://deepsearch-ivory-two.vercel.app)  
+Semantic search tool, updated for Gemini 2.0.  
+[Repo](https://github.com/swaroski/deepsearch)
+
+### ⚖️ [Legal RAG](https://legal-rag.vercel.app)  
+RAG pipeline for legal document retrieval and Q&A.  
+[Repo](https://github.com/swaroski/legal-rag)
+
+### 🤖 [Agentic RAG](https://agentic-rag-peach.vercel.app)  
+Multi-step reasoning using RAG with agent workflows.  
+[Repo](https://github.com/swaroski/agentic-rag)
+
+### 🖼️ [SVG Image Tool](https://svg-image.vercel.app)  
+Fixes SVG rendering and transformations.  
+[Repo](https://github.com/swaroski/svg-image)
+
+### 🧠 [Evia](https://evia.vercel.app)  
+Experimental AI utilities with custom prompt interfaces.  
+[Repo](https://github.com/swaroski/evia)
+
+### 🌌 [AI Chatverse](https://aichatverse.vercel.app)  
+Interactive AI chat playground.  
+[Repo](https://github.com/swaroski/aichatverse)
+
+### 🔥 [Chatverse (Flame)](https://chatverse-flame.vercel.app)  
+Alt version of Chatverse UI with flame theme.  
+[Repo](https://github.com/swaroski/chatverse)
+
+### 📄 [KSV RAG](https://ksv-rag.vercel.app)  
+Another RAG variant with PDF ingestion support.  
+[Repo](https://github.com/swaroski/ksv_rag)
+
+### 🧬 [ProteinBind](https://proteinbind-dun.vercel.app)  
+Modal and page-based structure for protein interactions.  
+[Repo](https://github.com/swaroski/proteinbind)
+
+### 🧝‍♀️ [Rapunzel](https://rapunzel-self.vercel.app)  
+Styled UI tool with theme switching.  
+[Repo](https://github.com/swaroski/rapunzel)
+
+### ✈️ [AI Trip Planner](https://ai-trip-plan.vercel.app)  
+AI-powered trip planning with smart recommendations.  
+[Repo](https://github.com/swaroski/ai-trip-plan)
+
+### 🧘 [FocusAI](https://focusai-hazel.vercel.app)  
+Mindful productivity assistant.  
+[Repo](https://github.com/swaroski/focusai)
+
+### 📸 [Realtime Image Gen](https://realtime-image-gen.vercel.app)  
+Component-based real-time AI image generation.  
+[Repo](https://github.com/swaroski/sdxl_lightning)
+
+ 
+ 
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/suyog007#0281) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.https://www.linkedin.com/in/suyogbhise7982/linkedin.com/in/) 
