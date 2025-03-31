@@ -4,8 +4,8 @@
 **swaroski/swaroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on Langchain, LLMs and similar Machine learning projects
-- 🌱 I’m currently learning VectorDB
+- 🔭 I’m currently working on Open Source Machine learning projects
+- 🌱 I’m currently learning AI Agent Architecture 
 - 👯 I’m looking to collaborate on Langchain Projects
 - 🤔 I’m looking for help with any project with LLMs
 - 💬 Ask me about LLM integrations and deployment
