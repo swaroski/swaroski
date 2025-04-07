@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with any project with LLMs
 - 💬 Ask me about LLM integrations and deployment
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I wake up before 4:30am everyday, take cold showers and can carry a T-shirt in the Canadian winters
+
 -->
 
 # 💫 About Me:
