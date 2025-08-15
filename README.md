@@ -62,9 +62,6 @@ Interactive AI chat playground.
 Alt version of Chatverse UI with flame theme.  
 [Repo](https://github.com/swaroski/chatverse)
 
-### 📄 [KSV RAG](https://ksv-rag.vercel.app)  
-Another RAG variant with PDF ingestion support.  
-[Repo](https://github.com/swaroski/ksv_rag)
 
 ### 🧬 [ProteinBind](https://proteinbind-dun.vercel.app)  
 Modal and page-based structure for protein interactions.  
