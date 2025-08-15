@@ -22,11 +22,11 @@
 AI-powered workspace-based book management with role-based permissions.  
 [Repo](https://github.com/swaroski/ai-shelves)
 
-### 🎨 [Logo Generator](https://www.semplr.com)  
+### 🗂️ [Logo Generator](https://www.semplr.com)  
 AI-powered logo generation with prompt-based customization and Vercel deploy.  
 [Repo](https://github.com/swaroski/logo-generator)
 
-### 🎨 [InsightBot]  
+### 🧬 InsightBot
 A production-ready end-to-end AI SaaS platform that allows users to query financial, technical, and business documents with AI-powered insights using LangGraph agent orchestration.  
 [Repo](https://github.com/swaroski/insightbot)
 
