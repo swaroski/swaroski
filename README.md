@@ -30,6 +30,10 @@ AI-powered workspace-based book management with role-based permissions.
 AI-powered logo generation with prompt-based customization and Vercel deploy.  
 [Repo](https://github.com/swaroski/logo-generator)
 
+### 📸 [Realtime Image Gen](https://realtime-image-gen.vercel.app)  
+Component-based real-time AI image generation.  
+[Repo](https://github.com/swaroski/sdxl_lightning)
+
 ### 🧬 InsightBot
 A production-ready end-to-end AI SaaS platform that allows users to query financial, technical, and business documents with AI-powered insights using LangGraph agent orchestration.  
 [Repo](https://github.com/swaroski/insightbot)
@@ -79,9 +83,7 @@ AI-powered trip planning with smart recommendations.
 Mindful productivity assistant.  
 [Repo](https://github.com/swaroski/focusai)
 
-### 📸 [Realtime Image Gen](https://realtime-image-gen.vercel.app)  
-Component-based real-time AI image generation.  
-[Repo](https://github.com/swaroski/sdxl_lightning)
+
 
  
  
