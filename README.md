@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Open Source Machine learning projects
 - 🌱 I’m currently learning AI Agent Architecture 
-- 👯 I’m looking to collaborate on Langchain Projects
+- 👯 I’m looking to collaborate on Langchain/Langraph Projects
 - 🤔 I’m looking for help with any project with LLMs
 - 💬 Ask me about LLM integrations and deployment
 - 😄 Pronouns: he/him
@@ -18,13 +18,17 @@
 
  ## 🚀 Projects
 
- ### 🎨 [Smart Library Management System](https://neurolib.vercel.app/)  
+### 🎨 [Smart Library Management System](https://neurolib.vercel.app/)  
 AI-powered workspace-based book management with role-based permissions.  
 [Repo](https://github.com/swaroski/ai-shelves)
 
 ### 🎨 [Logo Generator](https://www.semplr.com)  
 AI-powered logo generation with prompt-based customization and Vercel deploy.  
 [Repo](https://github.com/swaroski/logo-generator)
+
+### 🎨 [InsightBot]  
+A production-ready end-to-end AI SaaS platform that allows users to query financial, technical, and business documents with AI-powered insights using LangGraph agent orchestration.  
+[Repo](https://github.com/swaroski/insightbot)
 
 ### 🔍 [DeepSearch](https://deepsearch-ivory-two.vercel.app)  
 Semantic search tool, updated for Gemini 2.0.  
