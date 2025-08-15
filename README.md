@@ -18,9 +18,9 @@
 
  ## 🚀 Projects
 
-### 🧰 [MYNQ AI](https://mynq.ai/)  
+### 🧰 <a href="https://mynq.ai/" target="_blank">MYNQ AI</a>  
 Build custom AI agents. Automate workflows. Scale intelligently.  
-[Repo](https://github.com/swaroski/mynq)
+<a href="https://github.com/swaroski/mynq" target="_blank">Repo</a>
 
 ### 🎨 [Smart Library Management System](https://neurolib.vercel.app/)  
 AI-powered workspace-based book management with role-based permissions.  
