@@ -101,7 +101,8 @@ Component-based real-time AI image generation.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swaroski&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 <!-- Contribution streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swaroski&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=swaroski&theme=dark&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400)
+
 
 <!-- Top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaroski&theme=dark&hide_border=false&layout=compact)
