@@ -18,6 +18,10 @@
 
  ## 🚀 Projects
 
+ ### 🎨 [Smart Library Management System](https://neurolib.vercel.app/)  
+AI-powered workspace-based book management with role-based permissions.  
+[Repo](https://github.com/swaroski/ai-shelves)
+
 ### 🎨 [Logo Generator](https://www.semplr.com)  
 AI-powered logo generation with prompt-based customization and Vercel deploy.  
 [Repo](https://github.com/swaroski/logo-generator)
