@@ -1,15 +1,26 @@
-### Hi there 👋
+### Hi there I am your friendly neighborhood LLM wrangler👋
 
 <!--
 **swaroski/swaroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+🔭 Currently working on:
+Building weirdly powerful stuff with LangChain, Langgraph, LLMs, and agentic AI. You know — the kind of things that make your laptop fan spin louder than a jet engine.
 
-- 🔭 I’m currently working on Open Source Machine learning projects
-- 🌱 I’m currently learning AI Agent Architecture 
-- 👯 I’m looking to collaborate on Langchain/Langraph Projects
-- 🤔 I’m looking for help with any project with LLMs
-- 💬 Ask me about LLM integrations and deployment
-- 😄 Pronouns: he/him
+🌱 Currently learning:
+The dark arts of AI Agent Architectures — especially the magical Model Context Protocol (MCP). It's like building an operating system for prompt-powered superhumans.
+👯 Looking to collaborate on:
+Open source projects that involve LLMs, retrieval, agents, or multi-modal wizardry.
+🤔 Looking for help with:
+Anything wild in the GenAI space — whether it's chaining models, deploying them serverlessly, or just arguing which embedding is the GOAT.
+💬 Ask me about:
+🧠 LLM integration & deployment (Bedrock, Claude, OpenAI, you name it)
+🔌 LangChain, LangGraph, vector DBs
+☁️ Serverless AI architecture
+⚙️ Prompt ops, RAG, LoRA tuning, and evaluation frameworks
+😄 Pronouns:
+He/Him
+⚡ Fun fact:
+I wake up before 4:30am (voluntarily), take cold showers year-round, and yes — I can walk around in a Canadian winter with just a T-shirt and good vibes.
 
 -->
 
