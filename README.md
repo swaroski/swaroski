@@ -29,7 +29,7 @@ I wake up before 4:30am (voluntarily), take cold showers year-round, and yes —
 
  ## 🚀 Projects
 
-### ⚡ TurboQuant (https://github.com/swaroski/turboquant)
+### ⚡ [TurboQuant](https://github.com/swaroski/turboquant)
 High-performance 4-bit KV cache compression library for LLMs with a Rust core and FWHT.
 [Repo](https://github.com/swaroski/turboquant)
 
