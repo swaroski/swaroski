@@ -33,7 +33,7 @@ I wake up before 4:30am (voluntarily), take cold showers year-round, and yes —
 High-performance 4-bit KV cache compression library for LLMs with a Rust core and FWHT.
  [Repo](https://github.com/swaroski/turboquant)
 
-### 🧰 <a href="https://mynq.ai/" target="_blank">MYNQ AI</a>  
+### 🧰 <a href="https://mynq-studio.vercel.app" target="_blank">MYNQ AI</a>  
 Build custom AI agents. Automate workflows. Scale intelligently.  
 <a href="https://github.com/swaroski/mynq" target="_blank">Repo</a>
 
